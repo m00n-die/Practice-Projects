@@ -1,0 +1,1 @@
+Directory for all files and code for a QR Code Generator built using python 
