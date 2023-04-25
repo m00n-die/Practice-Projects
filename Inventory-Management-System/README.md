@@ -1,5 +1,5 @@
 # MD Logistics 
-MD Logistics is a simple inventory management system built using python by @ m00n-die
+MD Logistics is a simple inventory management system built using python by @m00n-die that runs using the Command Line Interface(CLI).
 Built to help my mom manage her business
 
 # Documentation
