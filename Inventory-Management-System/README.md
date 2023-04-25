@@ -13,7 +13,7 @@ Built to help my mom manage her business
 
 * view_all_items(self): Returns a list of all the items in the inventory table.
 
-*search_item(self, item_name): Searches the inventory table for an item with the given item_name and returns a list of matching items.
+* search_item(self, item_name): Searches the inventory table for an item with the given item_name and returns a list of matching items.
 
 # Contributions
 Feel free to contribute to this project to make it better and more efficient
