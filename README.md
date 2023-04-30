@@ -1,3 +1,9 @@
 # Practice-Projects
-This is one giant repository for all projects I personally undertake during my Software Engineering journey.
-I decided to make this repo to avoid cluster and have all my projects in one place.
+A collection of Pojects I have created during my time as a Software Engineering Student at ALX Africa.
+These projects are to help me grow in my journey.
+
+# QR Code Gen
+A simple python program that takes a URL as input and returns a QR Code.
+
+# Inventory-Management-System
+A simple inventory management system built using python that runs using the Command Line Interface(CLI).
