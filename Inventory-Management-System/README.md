@@ -2,7 +2,7 @@
 MD Logistics is a simple inventory management system built using python by @m00n-die that runs using the Command Line Interface(CLI).
 Built to help my mom manage her business
 
-# Documentation
+## Documentation
 * __init__(self, db_file): Initializes a connection to the database and creates the table if it does not exist.
 
 * add_item(self, item_name, quantity, price): Adds an item to the inventory table with the given item_name, quantity, and price.
@@ -15,5 +15,5 @@ Built to help my mom manage her business
 
 * search_item(self, item_name): Searches the inventory table for an item with the given item_name and returns a list of matching items.
 
-# Contributions
+## Contributions
 Feel free to contribute to this project to make it better and more efficient

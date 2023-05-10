@@ -1,0 +1,2 @@
+# Authentication System
+This is an authentication system built for my Inventory Management System. This has been built so as to not allow just anybody modify the database for the inventory management system. 
